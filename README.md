@@ -1,8 +1,8 @@
 # Calistigim-Projeler-ve-Web-Siteleri
 
-trafikmalzemecim.com – HTML/CSS/JavaScript
-nippur.com.tr – HTML/CSS/JavaScript
-helpguvenlik.com – WordPress 
-psychotherapiehaus.ch – WordPress
-navigaltd.com – Joomla
-etemogludis.com – WordPress
+trafikmalzemecim.com – HTML/CSS/JavaScript </br>
+nippur.com.tr – HTML/CSS/JavaScript</br>
+helpguvenlik.com – WordPress </br>
+psychotherapiehaus.ch – WordPress</br>
+navigaltd.com – Joomla</br>
+etemogludis.com – WordPress</br>
